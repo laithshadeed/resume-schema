@@ -21,8 +21,7 @@
         },
         "email": {
           "type": "string",
-          "description": "e.g. thomas@gmail.com",
-          "format": "email"
+          "description": "e.g. thomas@gmail.com"
         },
         "phone": {
           "type": "string",
